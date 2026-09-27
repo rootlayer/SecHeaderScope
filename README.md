@@ -1,20 +1,9 @@
-cat << 'EOF' > README.md
-# 🛡️ SecHeaderScope v1.0
-
 > **Dynamic HTTP Security Header Analyzer & Pentest CLI Tool**  
 > Automatically fetches live HTTP security header guidelines directly from the official **OWASP CheatSheet Series** and evaluates web application header defenses.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![OWASP Sync](https://img.shields.io/badge/OWASP-Live%20Sync-orange.svg)](https://cheatsheetseries.owasp.org/)
-
----
-
-## 📸 Terminal Preview
-
-![SecHeaderScope Dashboard](screenshot.png)
-
----
 
 ## ✨ Key Features
 
@@ -53,7 +42,7 @@ cat << 'EOF' > README.md
 
 ```bash
 # Clone the repository
-git clone [https://github.com/rootlayer/SecHeaderScope.git](https://github.com/rootlayer/SecHeaderScope.git)
+git clone https://github.com/rootlayer/SecHeaderScope.git
 cd SecHeaderScope
 
 # Install required packages
