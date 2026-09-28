@@ -54,3 +54,8 @@ pip install -r requirements.txt
 
 # Run a scan against any target
 python3 secheader_scope.py target.com
+```
+### And then finally
+
+<img width="1638" height="657" alt="Screenshot 2026-09-28 204908" src="https://github.com/user-attachments/assets/f725470c-f706-4803-8633-07f6a5133fce" />
+
